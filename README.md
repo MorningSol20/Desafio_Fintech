@@ -23,19 +23,19 @@ Mesmo sem JavaScript, o projeto apresenta:
 
 ## 🎯 Objetivo do Projeto
 
-- O propósito deste trabalho é demonstrar:
-- Organização de informações financeiras
-- Criação de layouts funcionais
-- Uso de boas práticas de HTML e CSS
-- Estrutura visual de um sistema de controle financeiro
+- O propósito deste trabalho é demonstrar.<br>
+- Organização de informações financeiras. <br>
+- Criação de layouts funcionais. <br>
+- Uso de boas práticas de HTML e CSS. <br>
+- Estrutura visual de um sistema de controle financeiro. <br>
 
 ## 🔧 Melhorias Futuras
 
-🔹 Adicionar JavaScript para tornar o sistema funcional
-🔹 Implementar cálculos automáticos de saldo
-🔹 Criar armazenamento real de dados
-🔹 Adicionar gráficos financeiros
-🔹 Conectar com backend
+🔹 Adicionar JavaScript para tornar o sistema funcional. <br>
+🔹 Implementar cálculos automáticos de saldo. <br>
+🔹 Criar armazenamento real de dados. <br>
+🔹 Adicionar gráficos financeiros. <br>
+🔹 Conectar com backend. <br>
 
 ### 👨‍💻 Autor
 <p>Morôni Sol</p>
