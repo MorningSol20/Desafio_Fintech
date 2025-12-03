@@ -17,8 +17,11 @@ Mesmo sem JavaScript, o projeto apresenta:
 
 Tecnologias Utilizadas
 
-* HTML5
-* CSS3
+## 🛠️ Tecnologias
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+</div>
 
 🎯 Objetivo do Projeto
 
